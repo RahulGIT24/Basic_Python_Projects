@@ -1,7 +1,0 @@
-******* Thanks for using Rahul's ATM *******
-HI Rahul
-Branch Name-- H.P. State Co-Operative Bank Nahan
-Account Number-- 55910117212
-You have withdrawn Rs.450 on 2022-03-28 18:38:46.119397
-Now your account balance is 44550
-Have a nice day! Rahul

@@ -12,14 +12,14 @@ import getpass
 
 class ATM:
 
-    Name = "Rahul"
-    Account_Number = 55910117212
-    Address = "Upper Street 504/7"
-    PhNo_ = 6230822583
+    Name = "Coder"
+    Account_Number = 5500000689
+    Address = "Silicon Valley"
+    PhNo_ = 91000000299
     Pin = "1234"
     Balance = 45000
-    Branch_Name = "H.P. State Co-Operative Bank Nahan"
-    IFSC_Code = "HPSC0000559"
+    Branch_Name = "Bank Of America"
+    IFSC_Code = "HP000000339"
 
 
 class ATM_user(ATM):

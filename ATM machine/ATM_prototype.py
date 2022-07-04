@@ -43,7 +43,7 @@ Have a nice day! {ATM.Name}''')
         else:
             print("Processing.....")
             playsound(
-                "D:\\Coding Courses\\Python\\Python Projects\\ATM machine\\withdraw.mp3")
+                "E:\Coding\Coding Projects\Python Projects\ATM machine\withdraw.mp3")
             ATM.Balance = ATM.Balance-withdraw
             print(
                 f"{withdraw} withdrawn successfully. Now your balance is {ATM.Balance}")
@@ -72,7 +72,7 @@ Have a nice day! {ATM.Name}''')
         print("Processing.....")
         time.sleep(5)
         playsound(
-            "D:\\Coding Courses\\Python\\Python Projects\\ATM machine\\deposit.mp3")
+            "E:\Coding\Coding Projects\Python Projects\ATM machine\deposit.mp3")
         ATM.Balance = ATM.Balance+deposit
         print(
             f"Amount deposited successfully. Now your balance is {ATM.Balance}")
@@ -104,11 +104,11 @@ Have a nice day! {ATM.Name}''')
             pywhatkit.sendwhatmsg(
                 f"91+{phone}", f"Recharge Done for Rs.{rcamt}", 14, 28)
             playsound(
-                "D:\\Coding Courses\\Python\\Python Projects\\ATM machine\\rcdone.mp3")
+                "E:\Coding\Coding Projects\Python Projects\ATM machine\rcdone.mp3")
             ATM.Balance.__sub__(rcamt)
         except Exception as e:
             playsound(
-                "D:\\Coding Courses\\Python\\Python Projects\\ATM machine\\Payment_Fail.mp3")
+                "E:\Coding\Coding Projects\Python Projects\ATM machine\Payment_Fail.mp3")
             print(f"{e}")
 
     def update(self):

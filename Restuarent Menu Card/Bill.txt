@@ -1,6 +1,0 @@
-******************* VEGGIE PIZZAS *******************
-    *YOU HAVE ORDERED DOUBLE CHEESE MARGHERITA LARGE SIZE PIZZA
-    *AMOUNT IS: 495 Rs.
-    *PAYMENT TYPE CASH
-    *TIME-- 2022-04-02 12:29:30.112476
-************************************** THANKS FOR ODERING Rahul ************************************** 

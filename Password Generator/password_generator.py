@@ -1,9 +1,9 @@
 import random
 import datetime
-# * Project: password Generator
-# * Made By Rahul
-# * Location Ghar pe
-# * Date - 20-03-2022
+#* Project: password Generator
+#* Made By Rahul
+#* Location Ghar pe
+#* Date - 20-03-2022
 x=datetime.datetime.now()
 while(True):
     print("\tPress q to quit")

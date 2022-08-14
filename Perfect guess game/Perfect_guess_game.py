@@ -8,6 +8,7 @@ randNumber=random.randint(1,100)
 userGuess=None
 guesses=0
 
+print(randNumber)
 
 while(userGuess!=randNumber):
     try:
@@ -27,10 +28,10 @@ while(userGuess!=randNumber):
 print(f"{name} guessed it right in {guesses} guesses")
 
 with open("hiscore.txt") as f:
-    hiscore=int(f.read()) #Remember to add int 
+    hiscore=f.read()
 
-if (guesses<hiscore):
+if (guesses<int(hiscore)):
     print(f"{name} just broke the hiscore!")
     with open("hiscore.txt","w") as f:
-        f.write(f"The hiscore is broken by {name}.New hiscore is: " +str(guesses)) #Remember to add string
+        f.write(str(guesses)) #Remember to add string
         f.close()

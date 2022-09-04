@@ -1,3 +1,0 @@
-There is a high possibility that it will throws an error while running in your machine. To avoid this you have to enter the sounds path manually in source code of ATM_prototype.py.
-This will help you for sure.
-Thanks for reading.....

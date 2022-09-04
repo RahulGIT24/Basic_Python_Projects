@@ -1,8 +1,0 @@
-******* Thanks for using Rahul's ATM *******
-HI Coder
-Branch Name-- Bank Of America
-Account Number-- 5500000689
-IFSC Code--HP000000339
-You have withdrawn Rs.500 on 2022-07-04 08:47:14.215283
-Now your account balance is 44500
-Have a nice day! Coder
